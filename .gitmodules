@@ -1,0 +1,6 @@
+[submodule "human-pose-estimationopencv"]
+	path = human-pose-estimationopencv
+	url = https://github.com/quanhua92/human-pose-estimation-opencv
+[submodule "Body-Parsing"]
+	path = Body-Parsing
+	url = https://github.com/GoGoDuck912/Self-Correction-Human-Parsing
